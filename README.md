@@ -9,7 +9,7 @@
 |**Service Type**<br>OData URL|
 |**Service URL**<br>https://services.odata.org/northwind/northwind.svc|
 |**Module Name**<br>products-nwind|
-|**Application Title**<br>Products List 0.0.2|
+|**Application Title**<br>Products List 0.0.3|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.145.0|
@@ -20,7 +20,7 @@
 
 ## products-nwind
 
-Products List 0.0.2
+Products List 0.0.3
 
 ### Starting the generated app
 
